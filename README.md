@@ -164,7 +164,7 @@ Edite o select de estados em `pages/checkout.html` adicionando novas opções `<
 
 - **Telefone**: (11) 3000-0000
 - **Email**: contato@beautyglow.com
-- **Localização**: São Paulo, SP - Brasil
+- **Localização**: Guarulhos, SP - Brasil
 
 ## 📄 Próximas Melhorias Sugeridas
 
