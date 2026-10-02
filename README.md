@@ -2,6 +2,8 @@
 
 Um site de e-commerce moderno e responsivo para venda de cosméticos, desenvolvido com HTML5, CSS3, Bootstrap 5 e JavaScript vanilla.
 
+Link para o Site: https://felipe-g-ribeiro.github.io/teste-site/
+
 ## 🎯 Funcionalidades
 
 ✨ **Catálogo de Produtos**
